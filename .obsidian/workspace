@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "310b95215d9c6566",
+    "type": "split",
+    "children": [
+      {
+        "id": "587b9ea28ee2e733",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "паттерны/порождающие/abstract factory.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8947b30ab67f5016",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0eed22b08a5437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428957713cfc61d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62f4210b8370ee36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "spring",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0126a04437326477",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0625cfa27acac9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77c8dfd15dcfb08d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "паттерны/порождающие/abstract factory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "735d8ba228ba13ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ab2fb592e70b562",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "77c8dfd15dcfb08d",
+  "lastOpenFiles": [
+    "spring.md",
+    "all resources.md",
+    "Pasted image 20220423010654.png",
+    "Pasted image 20220423002706.png",
+    "Pasted image 20220423002024.png",
+    "Pasted image 20220423002641.png",
+    "graphQL.md",
+    "react/Next.js.md",
+    "next.js/next.js.md",
+    "typescript.md"
+  ]
+}
