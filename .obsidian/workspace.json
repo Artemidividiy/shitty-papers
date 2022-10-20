@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2b514ba8a8f4f156",
+        "id": "3c5de196fbdda58d",
         "type": "tabs",
         "children": [
           {
-            "id": "6ead3bb86fceebe8",
+            "id": "374415de2436ba90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ссрпо/паттерны/основные(???)/delegation.md",
+                "file": "react/Основы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b24f92e7dd03cd44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graphQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Возможности ",
+                "query": "tag:#graphQL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0126a04437326477",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ссрпо/паттерны/основные(???)/delegation.md",
+                "file": "graphQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,22 +122,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6ead3bb86fceebe8",
+  "active": "b24f92e7dd03cd44",
   "lastOpenFiles": [
-    "ссрпо/паттерны.md",
-    "ссрпо/паттерны/основные(???)/основные.md",
-    "ссрпо/ссрпо.md",
-    "page header template.md",
-    "ссрпо/связанные классы.md",
+    "Асинхронный.md",
+    "react/Двухстороннее связывание.md",
+    "react/Основы.md",
     "ссрпо/паттерны/порождающие/abstract factory.md",
-    "ссрпо/паттерны/структурные/proxy.md",
-    "ссрпо/паттерны/структурные/flyweight.md",
-    "ссрпо/паттерны/структурные/facade.md",
-    "ссрпо/паттерны/структурные/decorator.md"
+    "react/create react app.md",
+    "2022-10-20.md",
+    "курс по реакту.md",
+    "spring.md",
+    "PIPO.md",
+    "ссрпо/Основы ооп.md"
   ]
 }
