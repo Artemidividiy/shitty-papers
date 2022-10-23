@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5de196fbdda58d",
+        "id": "54e1e8a1fb19ed8e",
         "type": "tabs",
         "children": [
           {
-            "id": "374415de2436ba90",
+            "id": "a2d1bcfd288d0d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b24f92e7dd03cd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graphQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graphQL.md",
+                "file": "react/Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +115,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b24f92e7dd03cd44",
+  "active": "a2d1bcfd288d0d97",
   "lastOpenFiles": [
-    "Асинхронный.md",
-    "react/Двухстороннее связывание.md",
+    "^заметки.md",
     "react/Основы.md",
+    "директории.md",
+    "react/Двухстороннее связывание.md",
+    "page header template.md",
+    "схемотехника/PIPO.md",
+    "graphQL.md",
+    "схемотехника/Асинхронный.md",
     "ссрпо/паттерны/порождающие/abstract factory.md",
-    "react/create react app.md",
-    "2022-10-20.md",
-    "курс по реакту.md",
-    "spring.md",
-    "PIPO.md",
-    "ссрпо/Основы ооп.md"
+    "react/create react app.md"
   ]
 }
