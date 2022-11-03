@@ -2,5 +2,8 @@
   "baseFontSize": 16,
   "translucency": true,
   "cssTheme": "Horizon",
-  "accentColor": ""
+  "accentColor": "#e1449c",
+  "textFontFamily": "Roboto mono",
+  "interfaceFontFamily": "Roboto mono",
+  "monospaceFontFamily": "Roboto mono"
 }
