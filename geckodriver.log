@@ -1,0 +1,88 @@
+1670931701383	geckodriver	INFO	Listening on 127.0.0.1:49753
+1670931701903	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49754" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilequRgoP"
+2022-12-13 14:41:48.944 firefox-bin[70894:46246625] Unable to install helper!
+WebDriver BiDi listening on ws://127.0.0.1:49754
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49754/devtools/browser/a6f6a131-5537-4af3-ba94-fe17a4dc3f13
+2022-12-13 14:43:07.910 firefox-bin[70941:46246965] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x131bdf430 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+[2022-12-13T11:43:08Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-12-13T11:43:08Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-12-13T11:43:08Z ERROR viaduct::backend::ffi] Missing HTTP status
+1670932191799	geckodriver	INFO	Listening on 127.0.0.1:50596
+1670932192334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50597" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilePf9Sae"
+1670932193993	Marionette	INFO	Marionette enabled
+1670932194136	Marionette	INFO	Listening on port 50609
+Read port: 50609
+WebDriver BiDi listening on ws://127.0.0.1:50597
+1670932194590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilePf9Sae/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50597/devtools/browser/ecc98a43-b1d0-4c6d-a2e6-b1897eed8115
+1670932229735	geckodriver	INFO	Listening on 127.0.0.1:50704
+1670932230242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50705" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile2k5Nht"
+1670932231338	Marionette	INFO	Marionette enabled
+1670932231383	Marionette	INFO	Listening on port 50716
+Read port: 50716
+WebDriver BiDi listening on ws://127.0.0.1:50705
+1670932232066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile2k5Nht/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50705/devtools/browser/ced5cd15-1f9f-435e-9d8a-dcfb086dd06f
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-13 14:50:55.413 firefox-bin[74016:46263536] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1441f23c0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1670932592283	geckodriver	INFO	Listening on 127.0.0.1:51842
+1670932592804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51843" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileoxdUew"
+1670932594094	Marionette	INFO	Marionette enabled
+1670932594144	Marionette	INFO	Listening on port 51853
+Read port: 51853
+WebDriver BiDi listening on ws://127.0.0.1:51843
+1670932594866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileoxdUew/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51843/devtools/browser/f694c356-7784-45ad-9124-7251829b21d3
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-13 14:57:07.021 firefox-bin[74016:46263536] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1441f23c0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1670932627269	Marionette	INFO	Stopped listening on port 50716
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670932698943	geckodriver	INFO	Listening on 127.0.0.1:52097
+1670932699451	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52098" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilecuAwpV"
+1670932700599	Marionette	INFO	Marionette enabled
+1670932700658	Marionette	INFO	Listening on port 52109
+Read port: 52109
+WebDriver BiDi listening on ws://127.0.0.1:52098
+1670932701373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilecuAwpV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52098/devtools/browser/5d64f3ea-a051-4c92-9db9-eceb53e04f21
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1670932811522	geckodriver	INFO	Listening on 127.0.0.1:52385
+1670932812035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52386" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofiletQV6RJ"
+1670932813482	Marionette	INFO	Marionette enabled
+1670932813530	Marionette	INFO	Listening on port 52396
+Read port: 52396
+WebDriver BiDi listening on ws://127.0.0.1:52386
+1670932814184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofiletQV6RJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52386/devtools/browser/99bdf615-31b0-4da4-84a4-60cf3dec19d9
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/19338/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1670932974822	geckodriver	INFO	Listening on 127.0.0.1:52827
+1670932975335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52828" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilex2yQds"
+1670932977420	Marionette	INFO	Marionette enabled
+1670932977462	Marionette	INFO	Listening on port 52843
+Read port: 52843
+WebDriver BiDi listening on ws://127.0.0.1:52828
+1670932977860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilex2yQds/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52828/devtools/browser/b28e6f49-b78b-42f4-ac88-a5a2cfede783
+2022-12-13 15:04:13.744 firefox-bin[78423:46283554] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x13926a660 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1670933053935	Marionette	INFO	Stopped listening on port 52843
+2022-12-13 15:04:16.090 firefox-bin[76781:46275214] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1437fc580 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1670933056285	Marionette	INFO	Stopped listening on port 52109
+2022-12-13 15:04:18.157 firefox-bin[77494:46279014] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x152523ac0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1670933058389	Marionette	INFO	Stopped listening on port 52396

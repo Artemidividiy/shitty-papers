@@ -8,41 +8,75 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2d1bcfd288d0d97",
+            "id": "863de1217a5cfeff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all resources.md",
+                "file": "two programmers one cup/vk-cup/a.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "317291e795f807c0",
+            "id": "10c69865de46e38f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ссрпо/DDD.md",
+                "file": "ну чисто небольшая модификация.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "52fc40ca008c7bee",
+            "id": "815b3bf4f5da848f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "сети/pr.png"
+                "file": "python/args, kwargs.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "c5d31d8003d2b2eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/полундра блять/пример.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44ebbc439c5bab02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "работа/компонентная база/паттерны, используемые в проекте.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03bac8ab21a78c59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сети/pr.png",
+                "file": "python/полундра блять/пример.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,20 +169,17 @@
     "width": 200,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "52fc40ca008c7bee",
+  "active": "c5d31d8003d2b2eb",
   "lastOpenFiles": [
-    "сети/ospf.md",
-    "сети/igrp.md",
-    "сети/eigrp.md",
-    "операционные системы/тестовое.md",
-    "глобальная сеть.md",
-    "react/Основы.md",
-    "операционные системы/я хуй знает, как это называть.md",
-    "all resources.md",
-    "ссрпо/паттерны/порождающие/abstract factory.md",
-    "сети/pr.png"
+    "python/args, kwargs.md",
+    "ну чисто небольшая модификация.md",
+    "работа/компонентная база/паттерны, используемые в проекте.md",
+    "сети/конвергенция.md",
+    "ссрпо/паттерны/структурные/структурные.md",
+    "flutter/riverpod.md",
+    "two programmers one cup/vk-cup/a.md",
+    "Pasted image 20221026165244.png",
+    "Pasted image 20221020162503.png",
+    "all resources.md"
   ]
 }
