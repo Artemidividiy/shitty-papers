@@ -56,6 +56,26 @@
             }
           },
           {
+            "id": "c5fca310abb37c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "работа/краны/всякая хуйня/пруфы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b81d1b2d34fe33f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "44ebbc439c5bab02",
             "type": "leaf",
             "state": {
@@ -76,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/полундра блять/пример.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,17 +188,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c5d31d8003d2b2eb",
+  "active": "b81d1b2d34fe33f1",
   "lastOpenFiles": [
-    "python/args, kwargs.md",
-    "ну чисто небольшая модификация.md",
-    "работа/компонентная база/паттерны, используемые в проекте.md",
-    "сети/конвергенция.md",
-    "ссрпо/паттерны/структурные/структурные.md",
-    "flutter/riverpod.md",
-    "two programmers one cup/vk-cup/a.md",
+    "работа/краны/всякая хуйня/процесс разработки.md",
+    "работа/краны/всякая хуйня/пруфы.md",
+    "работа/краны/Pasted image 20221213191152.png",
     "Pasted image 20221026165244.png",
     "Pasted image 20221020162503.png",
-    "all resources.md"
+    "Pasted image 20220423010714.png",
+    "Pasted image 20220423002024.png",
+    "работа/краны/electron.md",
+    "python/полундра блять/пример.md",
+    "python/args, kwargs.md"
   ]
 }

@@ -86,3 +86,884 @@ DevTools listening on ws://127.0.0.1:52828/devtools/browser/b28e6f49-b78b-42f4-a
 1670933056285	Marionette	INFO	Stopped listening on port 52109
 2022-12-13 15:04:18.157 firefox-bin[77494:46279014] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x152523ac0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
 1670933058389	Marionette	INFO	Stopped listening on port 52396
+1670937663181	geckodriver	INFO	Listening on 127.0.0.1:59131
+1670937663691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59132" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileAdua2s"
+1670937665046	Marionette	INFO	Marionette enabled
+1670937665433	Marionette	INFO	Listening on port 59141
+Read port: 59141
+WebDriver BiDi listening on ws://127.0.0.1:59132
+1670937665684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileAdua2s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59132/devtools/browser/66c98a71-a0a7-44e5-86f5-bf070ae1d96f
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1670938034680	geckodriver	INFO	Listening on 127.0.0.1:59898
+1670938035201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59899" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileo8U0u3"
+1670938036447	Marionette	INFO	Marionette enabled
+1670938036518	Marionette	INFO	Listening on port 59912
+Read port: 59912
+WebDriver BiDi listening on ws://127.0.0.1:59899
+1670938036881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileo8U0u3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59899/devtools/browser/60a78fb3-efea-4038-8426-48acda0215cd
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1670938139634	geckodriver	INFO	Listening on 127.0.0.1:60118
+2022-12-13 16:29:00.098 firefox-bin[91866:46339089] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x15430ac10 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1670938140146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60119" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileitzyoz"
+1670938140275	Marionette	INFO	Stopped listening on port 59141
+1670938141356	Marionette	INFO	Marionette enabled
+1670938141402	Marionette	INFO	Listening on port 60128
+Read port: 60128
+WebDriver BiDi listening on ws://127.0.0.1:60119
+1670938141977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileitzyoz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60119/devtools/browser/9ee5046f-a095-44f7-b5a8-64682195f920
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1670938199964	geckodriver	INFO	Listening on 127.0.0.1:60292
+1670938200472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60293" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile1YF9P2"
+1670938201465	Marionette	INFO	Marionette enabled
+1670938201509	Marionette	INFO	Listening on port 60303
+Read port: 60303
+WebDriver BiDi listening on ws://127.0.0.1:60293
+1670938202044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile1YF9P2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60293/devtools/browser/8bddc26e-192d-4d42-9503-078262e2a1ed
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1670938318870	geckodriver	INFO	Listening on 127.0.0.1:60479
+1670938319377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60480" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileAXsxuv"
+1670938320481	Marionette	INFO	Marionette enabled
+1670938320520	Marionette	INFO	Listening on port 60490
+Read port: 60490
+WebDriver BiDi listening on ws://127.0.0.1:60480
+1670938321076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileAXsxuv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60480/devtools/browser/4f2dedae-5522-4d8f-9e5b-ce1e1b912b1c
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/39249/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-13 16:44:44.471 firefox-bin[95345:46354923] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x155b1e660 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1670939084652	Marionette	INFO	Stopped listening on port 60490
+1670948192729	geckodriver	INFO	Listening on 127.0.0.1:51263
+1670948193240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51264" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilem3JNEn"
+1670948194662	Marionette	INFO	Marionette enabled
+1670948195039	Marionette	INFO	Listening on port 51276
+Read port: 51276
+WebDriver BiDi listening on ws://127.0.0.1:51264
+1670948195258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilem3JNEn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51264/devtools/browser/fb51035b-c6ea-4de0-b6f7-04628663df34
+JavaScript warning: https://cdn.codeforces.com/s/71157/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/71157/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-13 19:18:04.638 firefox-bin[4579:46411976] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1476e57b0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1670948284810	Marionette	INFO	Stopped listening on port 51276
+1671034718484	geckodriver	INFO	Listening on 127.0.0.1:58334
+1671034719003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58335" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileA965mB"
+1671034720372	Marionette	INFO	Marionette enabled
+1671034720478	Marionette	INFO	Listening on port 58356
+Read port: 58356
+WebDriver BiDi listening on ws://127.0.0.1:58335
+1671034720993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileA965mB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58335/devtools/browser/5a685476-e29d-42d6-8f87-f023eb955bbe
+1671034763042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671034812876	geckodriver	INFO	Listening on 127.0.0.1:58564
+1671034813384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58565" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileHkRvUq"
+1671034814547	Marionette	INFO	Marionette enabled
+1671034814617	Marionette	INFO	Listening on port 58577
+Read port: 58577
+WebDriver BiDi listening on ws://127.0.0.1:58565
+1671034815413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileHkRvUq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58565/devtools/browser/2b787513-23b4-4554-8919-171224cda4e2
+1671034823902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671052866484	geckodriver	INFO	Listening on 127.0.0.1:50268
+1671052866997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50269" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilejM53mE"
+1671052868170	Marionette	INFO	Marionette enabled
+1671052868245	Marionette	INFO	Listening on port 50281
+Read port: 50281
+WebDriver BiDi listening on ws://127.0.0.1:50269
+1671052868985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilejM53mE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50269/devtools/browser/94665a87-5f2e-4b09-8025-8d67a040d4cc
+1671052874418	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671052924482	geckodriver	INFO	Listening on 127.0.0.1:50457
+1671052924994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50458" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile2nmOtd"
+1671052926304	Marionette	INFO	Marionette enabled
+1671052926375	Marionette	INFO	Listening on port 50469
+Read port: 50469
+WebDriver BiDi listening on ws://127.0.0.1:50458
+1671052926875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile2nmOtd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50458/devtools/browser/c27101ae-d5d0-43d8-b188-b0a8c0cfb082
+1671052934186	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/93489/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671085629795	geckodriver	INFO	Listening on 127.0.0.1:64926
+1671085630266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64927" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilejgznbo"
+1671085631609	Marionette	INFO	Marionette enabled
+1671085631711	Marionette	INFO	Listening on port 64939
+Read port: 64939
+WebDriver BiDi listening on ws://127.0.0.1:64927
+1671085632462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilejgznbo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64927/devtools/browser/8e787ea5-3ea2-44e4-8db0-6e3a2729b6a1
+1671085646007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671085687036	geckodriver	INFO	Listening on 127.0.0.1:65073
+1671085687547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65074" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileMVIVqh"
+1671085688537	Marionette	INFO	Marionette enabled
+1671085688662	Marionette	INFO	Listening on port 65081
+Read port: 65081
+WebDriver BiDi listening on ws://127.0.0.1:65074
+1671085689609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileMVIVqh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65074/devtools/browser/018f7c4b-140e-4948-b02a-dd6bfe23a789
+1671085695536	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671085722553	geckodriver	INFO	Listening on 127.0.0.1:65204
+1671085723064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65205" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileV7zyLF"
+1671085724045	Marionette	INFO	Marionette enabled
+1671085724174	Marionette	INFO	Listening on port 65212
+Read port: 65212
+WebDriver BiDi listening on ws://127.0.0.1:65205
+1671085725182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileV7zyLF/search.json.mozlz4", (void 0)))
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+DevTools listening on ws://127.0.0.1:65205/devtools/browser/746d9825-9ef4-4ee7-aafb-5ad84e573148
+2022-12-15 09:28:51.966 firefox-bin[83871:294248] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1a16f5dd0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671085732121	Marionette	INFO	Stopped listening on port 50469
+1671085737774	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671085744727	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671085853551	geckodriver	INFO	Listening on 127.0.0.1:65450
+1671085854066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65451" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilegmuB7F"
+1671085855017	Marionette	INFO	Marionette enabled
+1671085855146	Marionette	INFO	Listening on port 65458
+Read port: 65458
+WebDriver BiDi listening on ws://127.0.0.1:65451
+1671085856155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilegmuB7F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65451/devtools/browser/3edd132b-1d6a-4486-860a-3c21a5b610ba
+1671085861105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671085868644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671085891423	geckodriver	INFO	Listening on 127.0.0.1:49176
+1671085891932	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49177" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilexqUbBZ"
+1671085893044	Marionette	INFO	Marionette enabled
+1671085893134	Marionette	INFO	Listening on port 49183
+Read port: 49183
+WebDriver BiDi listening on ws://127.0.0.1:49177
+1671085893800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilexqUbBZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49177/devtools/browser/78487453-efc4-4ece-b469-2493310c8cec
+1671085898681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://addons.mozilla.org."
+JavaScript warning: https://code.jquery.com/jquery-1.10.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1671086478224	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2022-12-15 09:42:37.523 firefox-bin[39506:497236] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1a20cbe40 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+2022-12-15 09:42:37.563 firefox-bin[39506:497236] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1a20a33c0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 2036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1671086809108	geckodriver	INFO	Listening on 127.0.0.1:50337
+1671086809625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50338" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileRDqUDi"
+1671086810798	Marionette	INFO	Marionette enabled
+1671086810876	Marionette	INFO	Listening on port 50345
+Read port: 50345
+WebDriver BiDi listening on ws://127.0.0.1:50338
+1671086811642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileRDqUDi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50338/devtools/browser/742c9ff7-2646-4097-a577-1d80c5c0e6fe
+1671086826445	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671087472092	geckodriver	INFO	Listening on 127.0.0.1:50641
+1671087472602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50642" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile5fYBGj"
+1671087473923	Marionette	INFO	Marionette enabled
+1671087473990	Marionette	INFO	Listening on port 50649
+Read port: 50649
+WebDriver BiDi listening on ws://127.0.0.1:50642
+1671087474474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile5fYBGj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50642/devtools/browser/4a576dee-d49a-4c52-b817-8cca1c41a418
+1671087497042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671087499160	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671087636477	geckodriver	INFO	Listening on 127.0.0.1:50879
+1671087636987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50880" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofiledBsWpI"
+1671087638192	Marionette	INFO	Marionette enabled
+1671087638263	Marionette	INFO	Listening on port 50891
+Read port: 50891
+WebDriver BiDi listening on ws://127.0.0.1:50880
+1671087638948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofiledBsWpI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50880/devtools/browser/41dfdffe-3390-43c3-9073-8199003c6deb
+1671087648443	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/82992/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671087818071	geckodriver	INFO	Listening on 127.0.0.1:51321
+1671087818585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51322" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileiuc3s8"
+1671087819892	Marionette	INFO	Marionette enabled
+1671087819964	Marionette	INFO	Listening on port 51330
+Read port: 51330
+WebDriver BiDi listening on ws://127.0.0.1:51322
+1671087820418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileiuc3s8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51322/devtools/browser/1d2dbab8-8e96-4f82-93f8-fdb86c60277c
+1671087823346	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671087865592	geckodriver	INFO	Listening on 127.0.0.1:51492
+1671087866106	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51493" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileIQ9ZP7"
+1671087867345	Marionette	INFO	Marionette enabled
+1671087867420	Marionette	INFO	Listening on port 51502
+Read port: 51502
+WebDriver BiDi listening on ws://127.0.0.1:51493
+1671087868179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileIQ9ZP7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51493/devtools/browser/8bec71a7-e89c-4956-b589-f42f6a495621
+1671087871324	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-15 10:05:35.103 firefox-bin[45293:524540] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x140b61ba0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671087935266	Marionette	INFO	Stopped listening on port 50891
+2022-12-15 10:05:37.510 firefox-bin[43653:515279] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1547a33c0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671087937722	Marionette	INFO	Stopped listening on port 50345
+1671088033470	geckodriver	INFO	Listening on 127.0.0.1:51751
+1671088033983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51752" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile5ysio5"
+1671088035342	Marionette	INFO	Marionette enabled
+1671088035419	Marionette	INFO	Listening on port 51757
+Read port: 51757
+WebDriver BiDi listening on ws://127.0.0.1:51752
+1671088035932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile5ysio5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51752/devtools/browser/059359ff-5ee0-4125-870d-ba6058fb81d2
+1671088038855	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671088306782	geckodriver	INFO	Listening on 127.0.0.1:52137
+1671088307291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52138" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileTM16bC"
+1671088308338	Marionette	INFO	Marionette enabled
+1671088308528	Marionette	INFO	Listening on port 52147
+Read port: 52147
+WebDriver BiDi listening on ws://127.0.0.1:52138
+1671088309012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileTM16bC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52138/devtools/browser/a178dd79-0647-4749-9714-1cd24a8b7c9d
+1671088311908	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/25799/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671088701027	geckodriver	INFO	Listening on 127.0.0.1:53730
+1671088701540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53731" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileqC1J5Q"
+1671088702478	Marionette	INFO	Marionette enabled
+1671088702606	Marionette	INFO	Listening on port 53741
+Read port: 53741
+WebDriver BiDi listening on ws://127.0.0.1:53731
+1671088703389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileqC1J5Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53731/devtools/browser/fbbbecfa-9f1c-4586-92b5-0045531a0d0c
+1671088706292	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-15 10:19:20.832 firefox-bin[50598:548658] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x140315580 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671088761075	Marionette	INFO	Stopped listening on port 53741
+2022-12-15 10:19:22.626 firefox-bin[48642:541377] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x14353e4a0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671088762826	Marionette	INFO	Stopped listening on port 52147
+2022-12-15 10:19:24.903 firefox-bin[46534:531221] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x160c48f20 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671088765201	Marionette	INFO	Stopped listening on port 51502
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+2022-12-15 10:19:27.249 firefox-bin[47341:535174] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x147b7bf20 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671088767403	Marionette	INFO	Stopped listening on port 51757
+1671088875120	geckodriver	INFO	Listening on 127.0.0.1:53999
+1671088875628	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54000" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileaNBDKg"
+1671088876776	Marionette	INFO	Marionette enabled
+1671088876844	Marionette	INFO	Listening on port 54008
+Read port: 54008
+WebDriver BiDi listening on ws://127.0.0.1:54000
+1671088877538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileaNBDKg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54000/devtools/browser/f95c856a-8388-4d50-b38e-566fc5ee1dee
+1671088880259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671089260868	geckodriver	INFO	Listening on 127.0.0.1:55122
+1671089261376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55123" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileijd6f0"
+1671089262282	Marionette	INFO	Marionette enabled
+1671089262415	Marionette	INFO	Listening on port 55135
+Read port: 55135
+WebDriver BiDi listening on ws://127.0.0.1:55123
+1671089263255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileijd6f0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55123/devtools/browser/64ac3aec-ef51-4049-8ef3-3576508b2a02
+1671089266106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-15 10:27:56.107 firefox-bin[53318:558684] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1399404a0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671089276301	Marionette	INFO	Stopped listening on port 55135
+1671089313035	geckodriver	INFO	Listening on 127.0.0.1:55318
+1671089313546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55319" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilekDUGCE"
+1671089314729	Marionette	INFO	Marionette enabled
+1671089314803	Marionette	INFO	Listening on port 55324
+Read port: 55324
+WebDriver BiDi listening on ws://127.0.0.1:55319
+1671089315534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilekDUGCE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55319/devtools/browser/ca4c1496-e15b-4108-aa45-c4eae2175418
+1671089318380	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-15 10:28:40.558 firefox-bin[51422:552366] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1497842e0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671089320767	Marionette	INFO	Stopped listening on port 54008
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671089349270	geckodriver	INFO	Listening on 127.0.0.1:55430
+1671089349776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55431" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileoV1qur"
+1671089350666	Marionette	INFO	Marionette enabled
+1671089350789	Marionette	INFO	Listening on port 55438
+Read port: 55438
+WebDriver BiDi listening on ws://127.0.0.1:55431
+1671089351549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileoV1qur/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55431/devtools/browser/467c4130-4d30-4824-84e0-f0d6955f1a75
+1671089354569	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671089469711	geckodriver	INFO	Listening on 127.0.0.1:55768
+1671089470221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55769" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilee2Uv00"
+1671089471373	Marionette	INFO	Marionette enabled
+1671089471446	Marionette	INFO	Listening on port 55776
+Read port: 55776
+WebDriver BiDi listening on ws://127.0.0.1:55769
+1671089472251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilee2Uv00/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55769/devtools/browser/1586078e-a80b-466e-a462-23110590b526
+1671089474952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/67689/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090273730	geckodriver	INFO	Listening on 127.0.0.1:56713
+1671090274230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56714" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileamGeRn"
+1671090275155	Marionette	INFO	Marionette enabled
+1671090275290	Marionette	INFO	Listening on port 56721
+Read port: 56721
+WebDriver BiDi listening on ws://127.0.0.1:56714
+1671090276034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileamGeRn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56714/devtools/browser/813d228a-f93b-40f7-8c00-228d927c0cca
+1671090279944	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090328618	geckodriver	INFO	Listening on 127.0.0.1:56862
+1671090329086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56863" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile9toWYr"
+1671090330334	Marionette	INFO	Marionette enabled
+1671090330399	Marionette	INFO	Listening on port 56869
+Read port: 56869
+WebDriver BiDi listening on ws://127.0.0.1:56863
+1671090331120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile9toWYr/search.json.mozlz4", (void 0)))
+2022-12-15 10:45:33.823 firefox-bin[53904:561839] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x146279510 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+DevTools listening on ws://127.0.0.1:56863/devtools/browser/0ce0a5c4-e580-47ae-99f9-cca5e9159fc0
+1671090333984	Marionette	INFO	Stopped listening on port 55438
+1671090334464	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2022-12-15 10:45:35.646 firefox-bin[54691:564366] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x14ba8d270 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671090335833	Marionette	INFO	Stopped listening on port 55776
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-15 10:45:39.290 firefox-bin[58376:579815] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x143343580 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671090339491	Marionette	INFO	Stopped listening on port 56721
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-15 10:45:54.121 firefox-bin[58719:581583] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x14061e0b0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671090354338	Marionette	INFO	Stopped listening on port 56869
+1671090363020	geckodriver	INFO	Listening on 127.0.0.1:56976
+1671090363532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56977" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilepPCWrQ"
+1671090364432	Marionette	INFO	Marionette enabled
+1671090364556	Marionette	INFO	Listening on port 56984
+Read port: 56984
+WebDriver BiDi listening on ws://127.0.0.1:56977
+1671090365319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilepPCWrQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56977/devtools/browser/681a7a77-0bca-458a-b082-b9d8145fd1d5
+1671090368615	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-15 10:46:28.934 firefox-bin[58922:583057] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x1421ecc10 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671090389107	Marionette	INFO	Stopped listening on port 56984
+1671090389324	geckodriver	INFO	Listening on 127.0.0.1:57093
+1671090389834	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57094" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilenM90DH"
+1671090391143	Marionette	INFO	Marionette enabled
+1671090391320	Marionette	INFO	Listening on port 57101
+Read port: 57101
+WebDriver BiDi listening on ws://127.0.0.1:57094
+1671090391808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilenM90DH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57094/devtools/browser/f4d55aa9-616f-46ee-b173-2a1df481776a
+1671090394829	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090429536	geckodriver	INFO	Listening on 127.0.0.1:57233
+1671090430042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57234" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileK6SBTd"
+1671090431249	Marionette	INFO	Marionette enabled
+1671090431340	Marionette	INFO	Listening on port 57241
+Read port: 57241
+WebDriver BiDi listening on ws://127.0.0.1:57234
+1671090432086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileK6SBTd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57234/devtools/browser/7f8a4a7f-d2f7-4581-82d0-e39374e678f1
+1671090435656	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090496554	geckodriver	INFO	Listening on 127.0.0.1:57540
+1671090497059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57541" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileXmz9lp"
+1671090498203	Marionette	INFO	Marionette enabled
+1671090498319	Marionette	INFO	Listening on port 57553
+Read port: 57553
+WebDriver BiDi listening on ws://127.0.0.1:57541
+1671090499325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileXmz9lp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57541/devtools/browser/40f3166e-71e2-45cf-a72d-bfdb0654500d
+1671090502619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090519144	Marionette	INFO	Stopped listening on port 57553
+1671090530473	geckodriver	INFO	Listening on 127.0.0.1:57677
+1671090530977	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57678" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilekyYa6Z"
+1671090532285	Marionette	INFO	Marionette enabled
+1671090532377	Marionette	INFO	Listening on port 57685
+Read port: 57685
+WebDriver BiDi listening on ws://127.0.0.1:57678
+1671090533076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilekyYa6Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57678/devtools/browser/695b949d-7625-4ef4-bbd5-c9776fc539e1
+1671090536706	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090546115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671090571114	geckodriver	INFO	Listening on 127.0.0.1:57780
+1671090571619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57781" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilepJPxvO"
+1671090572769	Marionette	INFO	Marionette enabled
+1671090572841	Marionette	INFO	Listening on port 57790
+Read port: 57790
+WebDriver BiDi listening on ws://127.0.0.1:57781
+1671090573530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilepJPxvO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57781/devtools/browser/b045e740-1751-4428-96c6-318164be8830
+1671090576544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090607174	Marionette	INFO	Stopped listening on port 57790
+1671090636339	geckodriver	INFO	Listening on 127.0.0.1:57980
+1671090636842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57981" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofiler5J8rE"
+1671090637760	Marionette	INFO	Marionette enabled
+1671090637889	Marionette	INFO	Listening on port 57991
+Read port: 57991
+WebDriver BiDi listening on ws://127.0.0.1:57981
+1671090638716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofiler5J8rE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57981/devtools/browser/a9a7a306-c31f-40b7-8456-ef0f193cc1e6
+1671090642413	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090665768	Marionette	INFO	Stopped listening on port 57991
+1671090894987	geckodriver	INFO	Listening on 127.0.0.1:58448
+1671090895497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58449" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile2ZXaxS"
+1671090896429	Marionette	INFO	Marionette enabled
+1671090896569	Marionette	INFO	Listening on port 58454
+Read port: 58454
+WebDriver BiDi listening on ws://127.0.0.1:58449
+1671090897594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile2ZXaxS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58449/devtools/browser/72b40aa9-c9ac-4439-8a2c-1dd22573e7de
+1671090900823	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671090909181	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671090945905	geckodriver	INFO	Listening on 127.0.0.1:58559
+1671090946419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58560" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileHShxvW"
+1671090947692	Marionette	INFO	Marionette enabled
+1671090947778	Marionette	INFO	Listening on port 58568
+Read port: 58568
+WebDriver BiDi listening on ws://127.0.0.1:58560
+1671090948604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileHShxvW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58560/devtools/browser/a83c5a08-fd2b-4f8c-b145-6c385e607c99
+1671090951678	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671091062193	Marionette	INFO	Stopped listening on port 58568
+1671091098966	geckodriver	INFO	Listening on 127.0.0.1:58869
+1671091099472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58870" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileS5jvxy"
+1671091100730	Marionette	INFO	Marionette enabled
+1671091100826	Marionette	INFO	Listening on port 58877
+Read port: 58877
+WebDriver BiDi listening on ws://127.0.0.1:58870
+1671091101525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileS5jvxy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58870/devtools/browser/561eb42d-8285-493f-8e36-cb7069b5a3f1
+1671091104657	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671091158470	Marionette	INFO	Stopped listening on port 58877
+1671091173687	geckodriver	INFO	Listening on 127.0.0.1:59045
+1671091174206	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59046" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilerTypaN"
+1671091175371	Marionette	INFO	Marionette enabled
+1671091175438	Marionette	INFO	Listening on port 59052
+Read port: 59052
+WebDriver BiDi listening on ws://127.0.0.1:59046
+1671091176281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilerTypaN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59046/devtools/browser/78c21464-1316-4853-b1d0-41a3c463c54d
+1671091180088	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671091275879	geckodriver	INFO	Listening on 127.0.0.1:59226
+1671091276390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59227" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilecDCWBz"
+1671091277618	Marionette	INFO	Marionette enabled
+1671091277692	Marionette	INFO	Listening on port 59236
+Read port: 59236
+WebDriver BiDi listening on ws://127.0.0.1:59227
+1671091278487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilecDCWBz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59227/devtools/browser/65c46718-4816-4981-91a7-4a93e610288a
+1671091281536	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671091392114	Marionette	INFO	Stopped listening on port 59236
+1671091409599	geckodriver	INFO	Listening on 127.0.0.1:59454
+1671091410107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59455" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileHu2MtE"
+1671091411260	Marionette	INFO	Marionette enabled
+1671091411330	Marionette	INFO	Listening on port 59461
+Read port: 59461
+WebDriver BiDi listening on ws://127.0.0.1:59455
+1671091412032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileHu2MtE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59455/devtools/browser/865f3174-16a4-4098-8b17-5843b8fd8a17
+1671091414962	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671091492045	Marionette	INFO	Stopped listening on port 59461
+1671091531481	geckodriver	INFO	Listening on 127.0.0.1:59741
+1671091531989	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59742" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile4BaCMl"
+1671091533332	Marionette	INFO	Marionette enabled
+1671091533403	Marionette	INFO	Listening on port 59749
+Read port: 59749
+WebDriver BiDi listening on ws://127.0.0.1:59742
+1671091533880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile4BaCMl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59742/devtools/browser/1ed00d7d-57a3-43e5-8943-adf365129e97
+1671091536817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671091560001	Marionette	INFO	Stopped listening on port 59749
+1671091777725	geckodriver	INFO	Listening on 127.0.0.1:60055
+1671091778229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60056" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilevrhv4f"
+1671091779366	Marionette	INFO	Marionette enabled
+1671091779536	Marionette	INFO	Listening on port 60067
+Read port: 60067
+WebDriver BiDi listening on ws://127.0.0.1:60056
+1671091780252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilevrhv4f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60056/devtools/browser/6669f722-6ecd-4482-a6fe-de0dbcca23cc
+1671091783685	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671092764145	geckodriver	INFO	Listening on 127.0.0.1:61570
+1671092764650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61571" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileQqylo8"
+1671092765577	Marionette	INFO	Marionette enabled
+1671092765701	Marionette	INFO	Listening on port 61582
+Read port: 61582
+WebDriver BiDi listening on ws://127.0.0.1:61571
+1671092766429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileQqylo8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61571/devtools/browser/ef90be94-4265-464e-bfd3-b0e3d61e7f2f
+1671092769888	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671092794981	geckodriver	INFO	Listening on 127.0.0.1:61705
+1671092795492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61706" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile8Mtdag"
+1671092796396	Marionette	INFO	Marionette enabled
+1671092796517	Marionette	INFO	Listening on port 61713
+Read port: 61713
+WebDriver BiDi listening on ws://127.0.0.1:61706
+1671092797318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile8Mtdag/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61706/devtools/browser/7dc7cbd4-b96f-4b3d-a4ce-d92748845880
+1671092800350	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671093267218	geckodriver	INFO	Listening on 127.0.0.1:62317
+1671093267722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62318" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileuXA164"
+1671093268652	Marionette	INFO	Marionette enabled
+1671093268784	Marionette	INFO	Listening on port 62325
+Read port: 62325
+WebDriver BiDi listening on ws://127.0.0.1:62318
+1671093269575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileuXA164/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62318/devtools/browser/bf66fd6f-de6b-4c30-8aed-56bb6351d291
+1671093272867	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671093389238	geckodriver	INFO	Listening on 127.0.0.1:62604
+1671093389745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62605" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileVDilFH"
+1671093390767	Marionette	INFO	Marionette enabled
+1671093390899	Marionette	INFO	Listening on port 62616
+Read port: 62616
+WebDriver BiDi listening on ws://127.0.0.1:62605
+1671093391684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileVDilFH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62605/devtools/browser/01b7e37c-fe15-4633-aadc-f09891a4daf4
+1671093394872	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+2022-12-15 11:37:09.689 firefox-bin[74129:653984] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x142c15f20 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+1671093429928	Marionette	INFO	Stopped listening on port 62616
+1671095161852	geckodriver	INFO	Listening on 127.0.0.1:64499
+1671095162356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64500" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileNFSuYP"
+1671095163514	Marionette	INFO	Marionette enabled
+1671095163596	Marionette	INFO	Listening on port 64507
+Read port: 64507
+WebDriver BiDi listening on ws://127.0.0.1:64500
+1671095164067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileNFSuYP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64500/devtools/browser/329f24ef-4d03-47eb-b021-693bb23270e0
+1671095166949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095180104	Marionette	INFO	Stopped listening on port 64507
+1671095261714	geckodriver	INFO	Listening on 127.0.0.1:64769
+1671095262220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64770" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileEfc47Q"
+1671095263133	Marionette	INFO	Marionette enabled
+1671095263257	Marionette	INFO	Listening on port 64777
+Read port: 64777
+WebDriver BiDi listening on ws://127.0.0.1:64770
+1671095264017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileEfc47Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64770/devtools/browser/83fe66cc-86d0-4893-b51a-555d2dc78c9e
+1671095266955	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095282351	Marionette	INFO	Stopped listening on port 64777
+1671095347582	geckodriver	INFO	Listening on 127.0.0.1:65005
+1671095348099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65006" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileFTXe6S"
+1671095349029	Marionette	INFO	Marionette enabled
+1671095349155	Marionette	INFO	Listening on port 65016
+Read port: 65016
+WebDriver BiDi listening on ws://127.0.0.1:65006
+1671095349915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileFTXe6S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65006/devtools/browser/366fd926-35d7-4dac-88f8-641a636dfb65
+1671095353259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095362667	Marionette	INFO	Stopped listening on port 65016
+1671095453740	geckodriver	INFO	Listening on 127.0.0.1:65329
+1671095454246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65330" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileNaBWL1"
+1671095455146	Marionette	INFO	Marionette enabled
+1671095455275	Marionette	INFO	Listening on port 65342
+Read port: 65342
+WebDriver BiDi listening on ws://127.0.0.1:65330
+1671095456051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileNaBWL1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65330/devtools/browser/8643864a-1ce9-466e-ab25-7b3e747a4594
+1671095458978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095465844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671095483803	geckodriver	INFO	Listening on 127.0.0.1:65422
+1671095484312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65423" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilewlGBx3"
+1671095485211	Marionette	INFO	Marionette enabled
+1671095485344	Marionette	INFO	Listening on port 65433
+Read port: 65433
+WebDriver BiDi listening on ws://127.0.0.1:65423
+1671095486120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilewlGBx3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65423/devtools/browser/577aeb03-d5d6-49cf-8981-9ca4f4bde94d
+1671095489028	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095536965	geckodriver	INFO	Listening on 127.0.0.1:49212
+1671095537474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49213" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilekc1NCB"
+1671095538413	Marionette	INFO	Marionette enabled
+1671095538544	Marionette	INFO	Listening on port 49218
+Read port: 49218
+WebDriver BiDi listening on ws://127.0.0.1:49213
+Read port: 49218
+1671095539812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilekc1NCB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49213/devtools/browser/c4fa3be4-1200-4c7b-9b07-b0c406de40e1
+1671095542959	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095821186	geckodriver	INFO	Listening on 127.0.0.1:49596
+1671095821703	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49597" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile6Sdu6p"
+1671095822901	Marionette	INFO	Marionette enabled
+1671095822972	Marionette	INFO	Listening on port 49604
+Read port: 49604
+WebDriver BiDi listening on ws://127.0.0.1:49597
+1671095823845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofile6Sdu6p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49597/devtools/browser/703f5cf1-7920-4893-ab68-475cd8d81b7f
+1671095828801	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095835689	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095850330	Marionette	INFO	Stopped listening on port 49604
+1671095894610	geckodriver	INFO	Listening on 127.0.0.1:49787
+1671095895112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49788" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilerHTxMc"
+1671095896592	Marionette	INFO	Marionette enabled
+1671095896663	Marionette	INFO	Listening on port 49795
+Read port: 49795
+WebDriver BiDi listening on ws://127.0.0.1:49788
+1671095897171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilerHTxMc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49788/devtools/browser/fbf03cae-9905-44f1-b908-16ca1556ab3d
+1671095902675	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671095914071	Marionette	INFO	Stopped listening on port 49795
+1671096017992	geckodriver	INFO	Listening on 127.0.0.1:50081
+1671096018503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50082" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileyhMzxF"
+1671096019414	Marionette	INFO	Marionette enabled
+1671096019544	Marionette	INFO	Listening on port 50093
+Read port: 50093
+WebDriver BiDi listening on ws://127.0.0.1:50082
+1671096020275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileyhMzxF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50082/devtools/browser/14baaa4b-6f50-4f96-9358-021951ce9444
+1671096025244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671096036059	Marionette	INFO	Stopped listening on port 50093
