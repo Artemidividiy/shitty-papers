@@ -23,6 +23,9 @@ class Restrictions:
         time = driver.find_element(By.CLASS_NAME, "time-limit").text
         memory = driver.find_element(By.CLASS_NAME, "memory-limit").text
         return Restrictions(time=time, memory=memory)
+    
+    def generate_markdown(self):
+        return f" | Ограничение на время | Ограничение на память |\n| ---- | ---- |\n| {self.time} | {self.memory} |"
 class SystemData:
     def __init__(self,iteration: int) -> None:
         self.createdAt = datetime.datetime.now()
@@ -36,7 +39,8 @@ class SystemData:
             "createdAt" : self.createdAt,
             "iteration": self.iteration
         }
-
+    def generate_markdown(self):
+        return f"---\n{self.to_string()}\n---"
 class Page:
     def __init__(self, url=None) -> None:
         self.parser = Parser(url)
@@ -45,7 +49,15 @@ class Page:
         self.input_type, self.task, self.input_specification, self.output_specification) = self.parser.parse()
     def to_str(self):
         return f"\ntitle: {self.title}\n\n---\nrestrictions: {self.restrictions.to_str()}\n\n---\ninput_type: {self.input_type}\n\n---\ntask: {self.split_text()}\n\n---\ninput_specification: {self.input_specification}\n\n---\noutput_specification: {self.output_specification}\n"
-    
+    def generate_markdown(self):
+        target = f"# {self.title}\n"
+        target += f"### Ограничения: \n{self.restrictions.generate_markdown()}\n"
+        target += f"### Организация ввода/вывода: \n {self.input_type} \n\n ---\n"
+        target += f"### Задание\n {self.split_text()}\n\n---\n"
+        target += f"### Входные данные\n {self.input_specification}\n"
+        target += f"### Выходные данные]\n {self.output_specification}\n"
+        return target
+
     def write_to_file(self):
         iteration = 1
         try:
@@ -54,15 +66,15 @@ class Page:
                 
                 f.close()
             with open(f"{self.title}.md", 'w') as f:
-                f.write(SystemData(iteration=iteration).to_string() + self.to_str())
+                f.write(SystemData(iteration=iteration).generate_markdown() + self.generate_markdown())
                 f.close()
         except:
             with open(f"{self.title}.md", 'w') as f:
-                f.write(SystemData(iteration=iteration).to_string() + self.to_str())
+                f.write(SystemData(iteration=iteration).generate_markdown() + self.generate_markdown())
                 f.close()
     
     def split_text(self):
-        # self.remove_duplicating_latins()
+        
         cur_len = 0
         target = "\n$$"
         for i in range(len(self.task)):
