@@ -10,5 +10,8 @@
   "cm-editor-syntax-highlight-obsidian",
   "code-block-copy",
   "highlightr-plugin",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "obsidian-chartsview-plugin",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin"
 ]

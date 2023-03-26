@@ -1059,3 +1059,88 @@ JavaScript warning: https://cdn.codeforces.com/s/84034/js/bfaa.js, line 4: WEBGL
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
 1671098210234	Marionette	INFO	Stopped listening on port 54461
+1671108042196	geckodriver	INFO	Listening on 127.0.0.1:62722
+1671108042657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62723" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileKl9M0O"
+1671108044082	Marionette	INFO	Marionette enabled
+1671108044605	Marionette	INFO	Listening on port 62730
+Read port: 62730
+WebDriver BiDi listening on ws://127.0.0.1:62723
+1671108044971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofileKl9M0O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62723/devtools/browser/aed65b81-15f2-448f-b67e-0c257ae4c5fd
+1671108048862	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/51356/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/51356/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671108062172	Marionette	INFO	Stopped listening on port 62730
+1671109035405	geckodriver	INFO	Listening on 127.0.0.1:64557
+1671109035912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64558" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilesXTJvA"
+*** You are running in headless mode.
+1671109037244	Marionette	INFO	Marionette enabled
+1671109037343	Marionette	INFO	Listening on port 64569
+Read port: 64569
+WebDriver BiDi listening on ws://127.0.0.1:64558
+1671109038243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2m/2cdbvl6s55s3dq_58sct57n00000gn/T/rust_mozprofilesXTJvA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64558/devtools/browser/81f51e3d-1a0d-44c5-9e09-1ec27055045f
+1671109042496	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.codeforces.com/s/51356/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.codeforces.com/s/51356/js/bfaa.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://codeforces.com."
+1671109051682	Marionette	INFO	Stopped listening on port 64569
+2022-12-15 18:08:20.474 firefox-bin[95437:747298] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x157a30eb0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+2022-12-15 18:55:21.534 firefox-bin[95437:747298] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <GeckoServicesNSMenuItem: 0x143460dd0 smart copy, ke='Command-С'>, but is only supported for system-provided menu items; will not be used
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Exception in clearMessagesCache" (new Error("Connection closed, pending request to server0.conn0.windowGlobal8589934679/consoleActor3, type clearMessagesCacheAsync failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\nclearMessagesCache@resource://devtools/client/webconsole/webconsole-ui.js:247:36\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: http://localhost:3000/static/js/bundle.js, line 1141: ReferenceError: assignment to undeclared variable script
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:8589934709"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671188487527	Marionette	INFO	Stopped listening on port 53758

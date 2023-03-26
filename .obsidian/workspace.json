@@ -4,99 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "54e1e8a1fb19ed8e",
+        "id": "ceae9e49a0783844",
         "type": "tabs",
         "children": [
           {
-            "id": "863de1217a5cfeff",
+            "id": "99c6ad5159dd896b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "two programmers one cup/vk-cup/a.md",
+                "file": "ссылки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10c69865de46e38f",
+            "id": "d62da0af6dc790fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ну чисто небольшая модификация.md",
+                "file": "сети/ospf.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "815b3bf4f5da848f",
+            "id": "c24bf458f253e923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "python/args, kwargs.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия 1.canvas",
+                "viewState": {
+                  "x": -121.69623124393671,
+                  "y": 66.22477380265607,
+                  "zoom": -0.69679080893596
+                }
               }
             }
           },
           {
-            "id": "c5d31d8003d2b2eb",
+            "id": "c80589c2df37ffde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/полундра блять/пример.md",
+                "file": "работа/x-keeper/миграция.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c5fca310abb37c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "работа/краны/всякая хуйня/пруфы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b81d1b2d34fe33f1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "44ebbc439c5bab02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "работа/компонентная база/паттерны, используемые в проекте.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03bac8ab21a78c59",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +89,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -138,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0126a04437326477",
@@ -154,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "работа/x-keeper/миграция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +153,40 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b81d1b2d34fe33f1",
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false
+    }
+  },
+  "active": "c80589c2df37ffde",
   "lastOpenFiles": [
-    "работа/краны/всякая хуйня/процесс разработки.md",
-    "работа/краны/всякая хуйня/пруфы.md",
-    "работа/краны/Pasted image 20221213191152.png",
+    "Без названия 1.canvas",
+    "работа/x-keeper/миграция.md",
+    "работа/x-keeper",
+    "ссылки.md",
+    "мпс/разбор ебучего кода.md",
+    "курсовая/трпс.md",
+    "Без названия 1.md",
+    "Без названия 2.md",
+    "сети/подготовка.md",
+    "сети/ospf.md",
+    "Без названия.canvas",
+    "ссрпо/паттерны/структурные/composite.md",
+    "ссрпо/паттерны/основные(???)/delegation.md",
+    "Pasted image 20230112140839.png",
+    "Pasted image 20230110211344.png",
     "Pasted image 20221026165244.png",
     "Pasted image 20221020162503.png",
     "Pasted image 20220423010714.png",
     "Pasted image 20220423002024.png",
-    "работа/краны/electron.md",
-    "python/полундра блять/пример.md",
-    "python/args, kwargs.md"
+    "2022-12-15 00:22:20.325783_url.jpeg"
   ]
 }

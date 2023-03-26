@@ -6,6 +6,8 @@ import time
 from rich.console import Console
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from rich.table import Table
+from rich.progress import track
 
 latin = r'[a-z]'
 
@@ -44,6 +46,7 @@ class SystemData:
 class Page:
     def __init__(self, url=None) -> None:
         self.parser = Parser(url)
+        self.console = Console()
         (self.title, 
         self.restrictions, 
         self.input_type, self.task, self.input_specification, self.output_specification) = self.parser.parse()
@@ -56,6 +59,7 @@ class Page:
         target += f"### Задание\n {self.split_text()}\n\n---\n"
         target += f"### Входные данные\n {self.input_specification}\n"
         target += f"### Выходные данные]\n {self.output_specification}\n"
+        self.console.log("markdown generated")
         return target
 
     def write_to_file(self):
@@ -63,21 +67,21 @@ class Page:
         try:
             with open(f"{self.title}.md", 'r') as f:
                 iteration = f.read()[f.read().find("iteration") + len("iteration") + 4] + 1
-                
                 f.close()
             with open(f"{self.title}.md", 'w') as f:
                 f.write(SystemData(iteration=iteration).generate_markdown() + self.generate_markdown())
                 f.close()
+                self.console.print("file writen")
         except:
+            self.console.log("[red] error occured while writing file[/red]")
             with open(f"{self.title}.md", 'w') as f:
                 f.write(SystemData(iteration=iteration).generate_markdown() + self.generate_markdown())
                 f.close()
     
     def split_text(self):
-        
         cur_len = 0
         target = "\n$$"
-        for i in range(len(self.task)):
+        for i in track(range(len(self.task)), description="splitting text"):
             if(cur_len > 100): 
                 while(self.task[i] != "."):
                     i+=1
@@ -90,6 +94,7 @@ class Page:
         self.task = target + "\n$$"
         target = "\, ".join(self.task.split(" "))
         self.task = target
+        self.console.log("text splitted")
         return self.task
 
     def remove_duplicating_latins(self):
@@ -110,6 +115,7 @@ class Parser:
     def __init__(self, url = None) -> None:
         self.authData = AuthWorker()
         self.interface = Interface()
+        os.environ['MOZ_HEADLESS'] = '1'
         self.driver = webdriver.Firefox()
         self.auth(url)
 
@@ -178,9 +184,16 @@ class Interface():
         return input()
         
     def ask_for_input(self,*vars):
+        self.console.print('need input')
         target = []
-        for i in range(len(vars)): 
+        for i in track(range(len(vars)), description="inputting"): 
             target.append ( self._inp(vars[i]))
+        table = Table()
+        table.add_column(header="field")
+        table.add_column(header="provided value")
+        for i in range(len(vars)):
+            table.add_row([vars[i], target[i]])
+        self.console.print(table)
         return target
 
     def print_collections(self, vars):

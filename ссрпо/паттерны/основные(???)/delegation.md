@@ -27,7 +27,7 @@ class B : I {
 };
 ```
 На диаграмме это выглядит так 
-```plantuml-ascii
+```plantuml
 
 class I
 class A

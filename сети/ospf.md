@@ -1,4 +1,4 @@
-open shortcut path first
+open shortest path first
 
 иерархический
 есть деление на зоны

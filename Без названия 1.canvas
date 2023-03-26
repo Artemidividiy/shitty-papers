@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bd2979fb71f856d0","x":-320,"y":-180,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=q1qKv5TBaOA"},
+		{"id":"757456ca9eab8f56","x":-570,"y":-360,"width":250,"height":50,"type":"text","text":"много про солид"}
+	],
+	"edges":[
+		{"id":"e594e4938f34bc3b","fromNode":"757456ca9eab8f56","fromSide":"bottom","toNode":"bd2979fb71f856d0","toSide":"top","color":"3"}
+	]
+}
